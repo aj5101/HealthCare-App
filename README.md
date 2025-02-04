@@ -1,0 +1,1 @@
+t offers features like finding a specialist doctor , book appointments with a doctor, buy medicines , have appointments for lab tests etc. From this project we can reduce the ever so increasing crowd in Hospitals.
